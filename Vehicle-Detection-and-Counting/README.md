@@ -23,7 +23,7 @@ This project has more functionalities than just counting vehicles, they are :
 ### System Architecture
 
 <p align="center">
-  <img src="System Architecture diagram in the root folder">
+  <img src="https://github.com/kugelschreiber1/Vehicle-Detection-and-Counting/blob/main/Vehicle-Detection-and-Counting/System%20Architecture.png">
 </p>
 
 - Vehicle detection and classification have been developed using TensorFlow Object Detection API
