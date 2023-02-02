@@ -23,7 +23,7 @@ This project has more functionalities than just counting vehicles, they are :
 ### System Architecture
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/22610163/103478400-80414280-4dd7-11eb-9874-3735359e2c20.png">
+  <img src="System Architecture diagram in the root folder">
 </p>
 
 - Vehicle detection and classification have been developed using TensorFlow Object Detection API
