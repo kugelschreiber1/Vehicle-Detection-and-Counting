@@ -37,7 +37,7 @@ This project has more functionalities than just counting vehicles, they are :
 ### Tracker
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/22610163/41812993-a4b5a172-7735-11e8-89f6-083ec0625f21.png" | width=700>
+  <img src="https://github.com/kugelschreiber1/Vehicle-Detection-and-Counting/blob/main/Vehicle-Detection-and-Counting/Tracker.png" | width=700>
 </p>
 
 The source video is read frame by frame using OpenCV. Each frame is processed by the ["SSD Mobilenet model](http://download.tensorflow.org/models/object_detection/) is developed on TensorFlow. There is a loop that continues working until it reaches the end of the video. The main pipeline of the tracker is given at the above Figure.
@@ -45,7 +45,7 @@ The source video is read frame by frame using OpenCV. Each frame is processed by
 ### Model
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/22610163/48481757-b1d5a900-e81f-11e8-824b-4317115fe5b4.png">
+  <img src="https://github.com/kugelschreiber1/Vehicle-Detection-and-Counting/blob/main/Vehicle-Detection-and-Counting/Model.png">
 </p>
 
 An ["SSD Mobilenet" model] is used (http://download.tensorflow.org/models/object_detection) in this project. 
